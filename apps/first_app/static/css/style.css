@@ -1,0 +1,29 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+
+h2 {
+  width:40%;
+  text-align:center;
+  margin: 20px auto;
+  border: 2px solid black;
+  color:green !important;
+}
+
+
+h1,h3 {
+  text-align: center !important;
+  color:orange !important;
+
+}
+
+form {
+  text-align: center;
+}
+
+input {
+  width:20%;
+  margin:20px auto !important;
+}
